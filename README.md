@@ -9,10 +9,10 @@ I'm a 19 years old developer and programming since I was 17. I love to code and 
 
 I am also a student at Anhembi Morumbi| São Paulo.
 
-🌍 I'm based in São Paulo, Brazil
-✉️ You can contact me at eduardafxntes@gmail.com
-🧠 I'm learning Advanced Java, Unit Tests and Python
-🤝 I'm open to collaborating on projects that have a high impact in peoples lives
-⚡ I love sports and my favorite is Kung Fu
+* 🌍 I'm based in São Paulo, Brazil
+* ✉️ You can contact me at eduardafxntes@gmail.com
+* 🧠 I'm learning Advanced Java, Unit Tests and Python
+* 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
+* ⚡ I love sports and my favorite is Kung Fu
 
 
