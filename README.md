@@ -15,8 +15,8 @@ I am also a student at Anhembi Morumbi | São Paulo.
 * 🤝 I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡ I love sports and my favorite is Kung Fu
 
-### Skills
---------------------
+### Skills:
+
 
   <div style="display: inline_block">
     <div style="display: inline_block">
