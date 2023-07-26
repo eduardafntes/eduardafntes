@@ -1,7 +1,7 @@
 
 Hi 👋 My name is Eduarda
 ==========================
-Full Stack Software Developer
+I'm a Student Developer ☕
 -----------------------------
 
 I'm a 19 years old developer and programming since I was 17. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
