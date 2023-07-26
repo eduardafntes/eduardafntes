@@ -16,6 +16,7 @@ I am also a student at Anhembi Morumbi | São Paulo.
 * ⚡ I love sports and my favorite is Kung Fu
 
 ### Skills
+-----------------------------
 
   <div style="display: inline_block">
     <div style="display: inline_block">
