@@ -17,6 +17,7 @@ I am also a student at Anhembi Morumbi | São Paulo.
 
 
 ### Skills:
+***
 
 
   <div style="display: inline_block">
