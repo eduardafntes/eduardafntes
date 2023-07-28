@@ -4,7 +4,7 @@ Hi 👋 My name is Eduarda
 I'm a Student Developer ☕
 -----------------------------
 
-I'm a 19 years old developer and programming since I was 17. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 19 years old developer and I've been programming since I was 17. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
 
 I am also a student at Anhembi Morumbi | São Paulo.
